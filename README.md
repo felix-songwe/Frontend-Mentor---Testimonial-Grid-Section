@@ -64,7 +64,7 @@ The above code is how I achieved the grid layout.
   In the future I would like to solidify my skills with animations and advanced javascript concepts for web development.
 
 Challenges faced: 
-- Only had a small challenge with the grid order. But I managed to get the grid rows and columns to look the same.
+- Had a challenge with getting the double quotes behind the text using z-index.
 
 ## Author
 

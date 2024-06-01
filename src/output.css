@@ -556,6 +556,50 @@ video {
   --tw-contain-style:  ;
 }
 
+.absolute{
+  position: absolute;
+}
+
+.relative{
+  position: relative;
+}
+
+.right-6{
+  right: 1.5rem;
+}
+
+.top-0{
+  top: 0px;
+}
+
+.-z-10{
+  z-index: -10;
+}
+
+.z-10{
+  z-index: 10;
+}
+
+.z-20{
+  z-index: 20;
+}
+
+.z-0{
+  z-index: 0;
+}
+
+.z-auto{
+  z-index: auto;
+}
+
+.z-\[\]{
+  z-index: ;
+}
+
+.z-\[100\]{
+  z-index: 100;
+}
+
 .ml-6{
   margin-left: 1.5rem;
 }
