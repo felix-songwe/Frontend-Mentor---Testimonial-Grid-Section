@@ -1,6 +1,4 @@
-# Frontend Mentor - Testimonials grid section
-
-This is a solution to the [Stats preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+# Frontend Mentor - Testimonials grid sections
 
 ## Table of contents
 
@@ -62,9 +60,6 @@ The above code is how I achieved the grid layout.
 ### Continued development
 
   In the future I would like to solidify my skills with animations and advanced javascript concepts for web development.
-
-Challenges faced: 
-- Had a challenge with getting the double quotes behind the text using z-index.
 
 ## Author
 
